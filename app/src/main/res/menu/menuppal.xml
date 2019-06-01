@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_info"
+        android:title="@string/mnu_info" />
+    <item
+        android:id="@+id/mnu_credit"
+        android:title="@string/mnu_credito" />
+    <item
+        android:id="@+id/mnu_salir"
+        android:title="@string/mnu_salir" />
+
+</menu>

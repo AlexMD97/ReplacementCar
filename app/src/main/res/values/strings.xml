@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReplacementCar</string>
+    <string name="btn_empezar">Comenzar Partida</string>
+    <string name="bnt_personaje">Selecciona vehiculo</string>
+    <string name="mnu_salir">Salir</string>
+    <string name="mnu_info">Info</string>
+    <string name="dialog_titulo">¿De que trata?</string>
+    <string name="dialog_msg">Tienes un coche de sustitución y debes devolverlo al taller intacto ya que el tuyo original ya está listo.\n
+        El taller quiere su coche intacto, pero hoy hay demasiados obstáculos en la carretera,\n
+        quizás un rasguño no haga nada, es posible que hagan la vista gorda \n
+¿Serás capaz de devolverle intacto o te tocara pagar una multa?
+</string>
+    <string name="dialogbtn">OK</string>
+    <string name="mnu_credito">Créditos</string>
+    <string name="credit_title">Proyecto realizado por:</string>
+    <string name="credit_msg">\tAlejandro Muñoz Dominguez \nAlumno de 2º de D.A.M.</string>
+    <string name="credit_btn">!Entendido!</string>
+</resources>
